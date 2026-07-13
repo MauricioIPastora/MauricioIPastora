@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI-Powered Web Browser<br>👯 I’m looking to collaborate on AI and web applications, especially projects involving full-stack development, RAG (retrieval-augmented generation) systems, and AWS Cloud infrastructure for real-world solutions.<br>🤝 I’m looking for help with Scaling multi-user apps, implementing robust cloud architecture on AWS, and exploring advanced AI integrations in production environments.<br>🌱 I’m currently learning optimizing serverless AI workflows on AWS, and best practices in secure, scalable data management.<br>
+🔭 I’m currently working on a homelab dashboard
 
 
 ## 🌐 Socials:
